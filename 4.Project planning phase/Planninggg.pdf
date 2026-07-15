@@ -1,0 +1,25 @@
+# Planning
+
+## Project Phases
+
+1. Research and data collection
+2. Backend API design and authentication
+3. ML model training and inference integration
+4. Frontend UI and workflow implementation
+5. Deployment and documentation
+
+## Milestones
+
+- `M1`: Setup backend, database, and auth
+- `M2`: Add crop recommendation and yield prediction APIs
+- `M3`: Add disease detection and market/weather integrations
+- `M4`: Complete frontend pages, navigation, and auth flow
+- `M5`: Prepare deployment artifacts and docs
+
+## Success Criteria
+
+- The app runs locally with backend and frontend
+- Auth works with JWT tokens
+- Prediction endpoints return valid results
+- Disease detection accepts image uploads
+- Documentation explains setup, API, and usage
